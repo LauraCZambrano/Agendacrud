@@ -1,0 +1,3 @@
+1. Ejercutar en el terminal npm install
+2. Ejecutar en el terminal npm run dev
+3. En el navegador colocar la url:  localhost:8001
